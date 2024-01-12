@@ -6,19 +6,19 @@ MRKing Cafe is a web application designed for a cafe in Sri Lanka, allowing user
 
 | ![Screenshot 1](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/a29fa1b7-8bef-4a43-bdac-359154d32645) | ![Screenshot 2](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/2cd6d410-50e9-469f-a33a-8a3604cb1693) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| *Caption for Screenshot 1*                                    | *Caption for Screenshot 2*                                    |
+| **                                    | **                                    |
 
 | ![Screenshot 3](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/cabe0982-351c-46e9-acbe-15df7f152c45) | ![Screenshot 4](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/dd15220a-db6e-4a00-8995-c772607a135e) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| *Caption for Screenshot 3*                                    | *Caption for Screenshot 4*                                    |
+| **                                    | **                                    |
 
 | ![Screenshot 5](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/4d57ca4f-a771-4d48-9f66-8c83870a2add) | ![Screenshot 6](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/ec9b4c12-cf4f-4c02-9871-e9747caf8b91) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| *Caption for Screenshot 5*                                    | *Caption for Screenshot 6*                                    |
+| **                                    | **                                    |
 
 | ![Screenshot 7](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/324a548c-3c2b-46c3-a47b-f06a91c15513) | ![Screenshot 8](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/7b0d209c-0745-4da3-a4af-0e3556e53ab6) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| *Caption for Screenshot 7*   
+| **   
 
 
 
