@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/30d8b629-d8f5-4b47-905c-d834f025d91d" alt="Logo" width="150" height="150">
+  <img src="https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/30d8b629-d8f5-4b47-905c-d834f025d91d" alt="Logo" width="400" height="200">
 </p>
 
 MRKing Cafe is a web application designed for a cafe in Sri Lanka, allowing users to conveniently order food online, explore available menus, update their profiles, and manage their order history. The system is built using the MERN (MongoDB, Express.js, React, Node.js) stack and Vite for a fast and efficient development experience.
