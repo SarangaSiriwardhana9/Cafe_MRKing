@@ -85,10 +85,4 @@ MRKing Cafe is a web application designed for a cafe in Sri Lanka, allowing user
    npm start
 
 
-
-
-
-
-
-
-
+**Remember to replace the placeholder values in the `.env.local` and `.env` files with your actual API keys and other sensitive information. Adjust the instructions and details according to your specific setup.**
