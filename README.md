@@ -22,6 +22,7 @@ MRKing Cafe is a web application designed for a cafe in Sri Lanka, allowing user
 
 
 
+![Screenshot 1](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/e8488b09-aeb8-40fb-a482-6f0abe45bf9e) ![Screenshot 2](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/00c53d68-dac1-412e-94e8-4fc7793d1256)
 
 ## Features
 
@@ -33,6 +34,10 @@ MRKing Cafe is a web application designed for a cafe in Sri Lanka, allowing user
 - **Order History**: Users have access to their order history, providing transparency and easy reference to past purchases.
 - **Admin Dashboard**: Admins can manage menus, users, and table bookings efficiently through a dedicated admin dashboard.
 - **Table Booking Management**: The system includes features for managing table bookings to streamline cafe operations.
+
+**Responsive Design**: MRKing Cafe is designed with responsiveness in mind, ensuring a seamless and enjoyable experience across various devices and screen sizes.
+
+
 
 ## Tech Stack
 
