@@ -1,12 +1,26 @@
-![10](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/ec9b4c12-cf4f-4c02-9871-e9747caf8b91)
-![9](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/324a548c-3c2b-46c3-a47b-f06a91c15513)
-![8](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/7b0d209c-0745-4da3-a4af-0e3556e53ab6)
-![7](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/4d57ca4f-a771-4d48-9f66-8c83870a2add)
-![Capture](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/a4899599-734a-4aba-8234-5a5de4efec39)
-![5](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/1bfaea77-e442-4265-ac9a-da8bbce9cce9)
-![4](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/dd15220a-db6e-4a00-8995-c772607a135e)
-![2](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/cabe0982-351c-46e9-acbe-15df7f152c45)
-![1](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/2cd6d410-50e9-469f-a33a-8a3604cb1693)
+## Screenshots
+
+| ![Screenshot 1](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/ec9b4c12-cf4f-4c02-9871-e9747caf8b91) | ![Screenshot 2](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/324a548c-3c2b-46c3-a47b-f06a91c15513) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| *Caption for Screenshot 1*                                    | *Caption for Screenshot 2*                                    |
+
+| ![Screenshot 3](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/7b0d209c-0745-4da3-a4af-0e3556e53ab6) | ![Screenshot 4](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/4d57ca4f-a771-4d48-9f66-8c83870a2add) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| *Caption for Screenshot 3*                                    | *Caption for Screenshot 4*                                    |
+
+| ![Screenshot 5](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/a4899599-734a-4aba-8234-5a5de4efec39) | ![Screenshot 6](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/1bfaea77-e442-4265-ac9a-da8bbce9cce9) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| *Caption for Screenshot 5*                                    | *Caption for Screenshot 6*                                    |
+
+| ![Screenshot 7](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/dd15220a-db6e-4a00-8995-c772607a135e) | ![Screenshot 8](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/cabe0982-351c-46e9-acbe-15df7f152c45) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| *Caption for Screenshot 7*                                    | *Caption for Screenshot 8*                                    |
+
+| ![Screenshot 9](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/2cd6d410-50e9-469f-a33a-8a3604cb1693) | ![Screenshot 10](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/2cd6d410-50e9-469f-a33a-8a3604cb1693) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| *Caption for Screenshot 9*                                    | *Caption for Screenshot 10*                                   |
+
+
 # MRKing Cafe - Online Food Ordering System
 
 MRKing Cafe is a web application designed for a cafe in Sri Lanka, allowing users to conveniently order food online, explore available menus, update their profiles, and manage their order history. The system is built using the MERN (MongoDB, Express.js, React, Node.js) stack and Vite for a fast and efficient development experience.
