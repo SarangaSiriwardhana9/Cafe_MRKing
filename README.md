@@ -49,10 +49,15 @@ MRKing Cafe is a web application designed for a cafe in Sri Lanka, allowing user
 - VITE_IMAGE_HOSTING_KEY=your_imgbb_api_key
 - VITE_STRIPE_PK=your_stripe_publishable_key
 
-5.**npm install:**
+5. **Install Dependencies**
 
-6.**npm run dev**
+   ```bash
+   npm install
 
+7. **Run the Application:**
+
+   ```bash
+   npm run dev
 
 ### Client
 
@@ -61,7 +66,7 @@ MRKing Cafe is a web application designed for a cafe in Sri Lanka, allowing user
    ```bash
    cd server
    
-2.**Create .env File:**
+2. **Create .env File:**
 
 3. **Copy the following content and replace the placeholder values with your own:**
    
