@@ -18,8 +18,7 @@ MRKing Cafe is a web application designed for a cafe in Sri Lanka, allowing user
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                     |                                     |
 
-| ![7](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/6251c6b7-ea62-4d1b-9098-94b5b7d29576)
- | ![Screenshot 6]![1](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/d4ee2ec8-1220-4742-b4d4-739680e19b16) |
+| ![7](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/a79850d8-198a-46cf-80cd-2c09c21aab74) | ![Screenshot 4](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/b4262050-5a47-4293-a6ce-6c7f6a6ef3d6) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                     |                                     |
 
