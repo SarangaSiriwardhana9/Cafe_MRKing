@@ -18,12 +18,13 @@ MRKing Cafe is a web application designed for a cafe in Sri Lanka, allowing user
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                     |                                     |
 
-| ![2](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/4900bee6-43be-4e38-8c6c-7cb39e4d7562) | ![Screenshot 6]![1](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/d4ee2ec8-1220-4742-b4d4-739680e19b16) |
+| ![7](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/6251c6b7-ea62-4d1b-9098-94b5b7d29576)
+ | ![Screenshot 6]![1](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/d4ee2ec8-1220-4742-b4d4-739680e19b16) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                     |                                     |
 
 
-| ![Screenshot 5](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/4d57ca4f-a771-4d48-9f66-8c83870a2add) | ![Screenshot 6](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/ec9b4c12-cf4f-4c02-9871-e9747caf8b91) |
+| ![Screenshot 5](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/4d57ca4f-a771-4d48-9f66-8c83870a2add) | ![Screenshot 6] |(https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/ec9b4c12-cf4f-4c02-9871-e9747caf8b91) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                     |                                     |
 
@@ -130,6 +131,5 @@ Check out the [Demo](https://cafe-mrking.netlify.app) of MRKing Cafe!
 
 
 **Remember to replace the placeholder values in the `.env.local` and `.env` files with your actual API keys and other sensitive information. Adjust the instructions and details according to your specific setup.**
-![2](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/4900bee6-43be-4e38-8c6c-7cb39e4d7562)
-![1](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/d4ee2ec8-1220-4742-b4d4-739680e19b16)
+
 
