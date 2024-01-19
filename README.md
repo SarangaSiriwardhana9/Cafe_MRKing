@@ -1,4 +1,5 @@
 
+
 # MRKing Cafe - Online Food Ordering System
 
 
@@ -18,7 +19,7 @@ MRKing Cafe is a web application designed for a cafe in Sri Lanka, allowing user
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |  |  |
 
-| ![Screenshot 7](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/a79850d8-198a-46cf-80cd-2c09c21aab74) | ![Screenshot 8](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/b4262050-5a47-4293-a6ce-6c7f6a6ef3d6) |
+| ![image_2024-01-20_020616157](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/ddb624e9-0f8b-4516-8f44-5d5f937ed548) | ![Screenshot 8](https://github.com/SarangaSiriwardhana9/Cafe_MRKing/assets/99233703/b4262050-5a47-4293-a6ce-6c7f6a6ef3d6) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |  |  |
 
