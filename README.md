@@ -49,6 +49,9 @@ MRKing Cafe is a web application designed for a cafe in Sri Lanka, allowing user
 
 **Responsive Design**: MRKing Cafe is designed with responsiveness in mind, ensuring a seamless and enjoyable experience across various devices and screen sizes.
 
+## Demo
+
+Check out the [Demo](https://cafe-mrking.netlify.app) of MRKing Cafe!
 
 
 ## Tech Stack
@@ -60,9 +63,6 @@ MRKing Cafe is a web application designed for a cafe in Sri Lanka, allowing user
 - **Payment Processing**: Stripe
 - **Image Hosting**: Imgbb API
 
-## Demo
-
-Check out the [Demo](https://cafe-mrking.netlify.app) of MRKing Cafe!
 
 
 ## Getting Started
